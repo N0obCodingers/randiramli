@@ -20,7 +20,7 @@
 
 ![Profile Dilihat](https://komarev.com/ghpvc/?username=randiramli&color=blue&style=flat-square&label=Profile+Dilihat)
 ### Stats:
-<p align="center"><a href="https://github.com/randiramli"><img src="https://github-readme-stats.vercel.app/api?username=randiramli&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/randiramli"><img src="[https://github-readme-stats.vercel.app/api?username=randiramli&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=N0obCodingers&show_icons=true&theme=radical)"></a></p>
 <p align="center"><a href="https://github.com/randiramli"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiramli&theme=radical&layout=compact"></a></p> 
 
 ## Repo Stats
